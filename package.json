@@ -21,7 +21,7 @@
     "test": "NODE_ENV=test jest"
   },
   "dependencies": {
-    "fbjs": "^3.0.0"
+    "fbjs": "https://gitpkg.now.sh/hiddensanctum/fbjs/packages/fbjs?main"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
